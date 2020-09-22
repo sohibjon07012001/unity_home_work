@@ -1,0 +1,188 @@
+using System;
+ using System.Collections;
+
+  public class Program
+{
+	string name = ""; 
+
+
+	  public  void Main()
+	{
+		  Console.WriteLine("Введите букву");
+		  name = Console.ReadLine();
+		  switch (name){
+			  case "A" :
+					 Console.WriteLine("Буква гласная");
+				  break;
+			  case "O":
+					 Console.WriteLine("Буква гласная");
+				  break;
+				  
+		       case "I":
+					 Console.WriteLine("Буква гласная");
+				  break;
+				case "E":
+					 Console.WriteLine("Буква гласная");
+				  break;
+				    case "a":
+					 Console.WriteLine("Буква гласная");
+				  break;
+				    case "o":
+					 Console.WriteLine("Буква гласная");
+				  break;
+				    case "i" :
+					 Console.WriteLine("Буква гласная");
+				  break;
+				    case "e":
+					 Console.WriteLine("Буква гласная");
+				  break;
+				 
+				      case "q":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  
+				  	 
+				      case "Q":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  default:
+				  	 
+				      case "w":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  	 
+				      case "W":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  	 
+				      case "r":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  	 
+				      case "R":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  	 
+				      case "t":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  	 
+				      case "T":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  	 
+				      case "y":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  	 
+				      case "Y":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  	 
+				      case "u":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  				  
+				   case "U":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				        case "p":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  	      case "P":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  		  	      case "s":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  	  	      case "S":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  	  	      case "d":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  	  	      case "D":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  	  	      case "f":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  	  	      case "F":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  	  	      case "g":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  	  	      case "G":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				  	  	      case "h":
+					 Console.WriteLine("Буква согасная");
+				  break;
+				  	  	      case "H":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "j":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "J":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "k":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "K":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "l":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "L":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "z":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "Z":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "x":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "X":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "c":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "C":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "v":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "V":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "b":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "B":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "n":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "N":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "m":
+					 Console.WriteLine("Буква согласная");
+				  break;
+				    case "M":
+					 Console.WriteLine("Буква согласная");
+				  break;
+			  
+				  }
+	}
+ } 
