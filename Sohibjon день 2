@@ -1,0 +1,46 @@
+using System;
+ using System.Collections;
+
+  public class Program
+{
+	string name = ""; 
+
+
+	  public  void Main()
+	{
+		  Console.WriteLine("Введите букву");
+		  name = Console.ReadLine();
+		  switch (name){
+			  case "A" :
+					 Console.WriteLine("Буква гласная");
+				  break;
+			  case "O":
+					 Console.WriteLine("Буква гласная");
+				  break;
+				  
+		       case "I":
+					 Console.WriteLine("Буква гласная");
+				  break;
+				case "E":
+					 Console.WriteLine("Буква гласная");
+				  break;
+				    case "a":
+					 Console.WriteLine("Буква гласная");
+				  break;
+				    case "o":
+					 Console.WriteLine("Буква гласная");
+				  break;
+				    case "i" :
+					 Console.WriteLine("Буква гласная");
+				  break;
+				    case "e":
+					 Console.WriteLine("Буква гласная");
+				  break;
+				 
+				  default:
+				 Console.WriteLine("Буква согласная");
+				  break;
+				  
+		  }
+	}
+ } 
