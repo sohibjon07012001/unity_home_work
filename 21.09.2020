@@ -1,0 +1,19 @@
+using System;
+					
+public class Program
+{
+ string name = "";
+	int number = 1;
+   public  void Main()
+  {
+	Console.WriteLine("введите имя; ");
+	  name = Console.ReadLine();
+	   Console.WriteLine("введите ваш возраст; ");
+	   number = Int32.Parse(Console.ReadLine());
+	    Console.WriteLine("Чем вы увлекаетесь?");
+	  string name2 = Console.ReadLine();
+	   Console.WriteLine("Ваш пол?");
+	   string name3 = Console.ReadLine();
+ Console.Write("Ваше имя"+ " " +name+ "\n" +"Ваш возраст " +number+ "\n" +"Ваше хобби" +" " +name2+ "\n" +"Ваш пол"+ " " +name3);
+   }
+	}
